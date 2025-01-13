@@ -1,0 +1,3 @@
+[submodule "IITKGP_Frontend"]
+  path = IITKGP_Frontend
+  url = https://github.com/ShanawazAlam007/IITKGP_Frontend.git
